@@ -1,0 +1,206 @@
+﻿  StdAfx.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  WHWindow.cpp
+  WHWilTexture.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(165): error C2065: 'D3DDEVICEDESC7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(165): error C2146: syntax error: missing ';' before identifier 'ddDesc'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(165): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(166): error C2039: 'GetCaps': is not a member of 'IDirect3DDevice9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(587): note: see declaration of 'IDirect3DDevice9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(166): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(178): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(178): error C2228: left of '.deviceGUID' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(178): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(178): error C2065: 'IID_IDirect3DHALDevice': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(178): error C2065: 'IID_IDirect3DTnLHalDevice': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(184): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(184): error C2228: left of '.dpcTriCaps' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(184): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(184): error C2228: left of '.dwTextureCaps' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(190): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(190): error C2228: left of '.dwMaxTextureWidth' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(190): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(191): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(191): error C2228: left of '.dwMaxTextureHeight' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(191): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(196): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(196): error C2228: left of '.dpcTriCaps' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(196): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(196): error C2228: left of '.dwTextureCaps' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(212): error C2039: 'EnumTextureFormats': is not a member of 'IDirect3DDevice9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(587): note: see declaration of 'IDirect3DDevice9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwiltexture.cpp(221): error C2660: 'IDirect3DDevice9::GetRenderTarget': function does not take 1 arguments
+  WHWilImage.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwilimage.cpp(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwilimage.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwilimage.cpp(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwilimage.cpp(190): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwilimage.cpp(191): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whwilimage.cpp(192): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  WHSurface.cpp
+  WHImage.cpp
+  WHDXGraphic.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(30): error C2061: syntax error: identifier 'D3DDEVICEDESC7'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(590): error C2065: 'IID_IDirect3D7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(593): error C2660: 'IDirect3D9::CreateDevice': function does not take 3 arguments
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(596): error C2065: 'D3DVIEWPORT7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(596): error C2146: syntax error: missing ';' before identifier 'd3dVP'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(596): error C2065: 'd3dVP': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(598): error C2065: 'd3dVP': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(836): error C2065: 'D3DDEVICEDESC7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(836): error C2146: syntax error: missing ';' before identifier 'ddDesc'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(836): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(837): error C2039: 'GetCaps': is not a member of 'IDirect3DDevice9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(587): note: see declaration of 'IDirect3DDevice9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(837): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(838): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(838): error C2228: left of '.dpcTriCaps' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(838): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(838): error C2228: left of '.dwRasterCaps' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(850): error C2039: 'EnumZBufferFormats': is not a member of 'IDirect3D9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(361): note: see declaration of 'IDirect3D9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(856): error C2039: 'EnumZBufferFormats': is not a member of 'IDirect3D9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(361): note: see declaration of 'IDirect3D9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(865): error C2664: 'HRESULT IDirect3DDevice9::SetRenderTarget(DWORD,IDirect3DSurface9 *)': cannot convert argument 1 from 'LPDIRECTDRAWSURFACE7' to 'DWORD'
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(865): note: There is no context in which this conversion is possible
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(914): error C2065: 'D3DTSS_MINFILTER': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(914): error C2065: 'D3DTFN_POINT': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(915): error C2065: 'D3DTSS_MAGFILTER': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(915): error C2065: 'D3DTFG_POINT': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(916): error C2065: 'D3DTSS_MIPFILTER': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(916): error C2065: 'D3DTFP_NONE': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(985): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(998): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(637): note: see declaration of '_itoa'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(1136): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1465): note: see declaration of 'vsprintf'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(1412): error C3861: 'RGB_GETRED': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(1413): error C3861: 'RGB_GETGREEN': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(1414): error C3861: 'RGB_GETBLUE': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6290): error C2061: syntax error: identifier 'D3DDEVICEDESC7'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6297): error C2065: 'pParentInfo': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6301): error C2065: 'pDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6301): error C2227: left of '->dwDevCaps' must point to class/struct/union/generic type
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6301): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6302): error C2065: 'pDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6302): error C2065: 'D3DDEVICEDESC7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6306): error C2065: 'pDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6306): error C2227: left of '->deviceGUID' must point to class/struct/union/generic type
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6306): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6327): error C2039: 'dwDeviceRenderBitDepth': is not a member of '_D3DCAPS9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9caps.h(122): note: see declaration of '_D3DCAPS9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdxgraphic.cpp(6378): error C2065: 'D3DENUMRET_CANCEL': undeclared identifier
+  WHDefProcess.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\whdefprocess.cpp(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  RegHandler.cpp
+  ddutil.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\ddutil.cpp(11): warning C4603: 'WIN32_LEAN_AND_MEAN': macro is not defined or definition is different after precompiled header use
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\ddutil.cpp(11): note: Add macro to precompiled header instead of defining here
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\ddutil.cpp(17): note: use of precompiled header
+  d3dutil.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(79): error C2039: 'dcvDiffuse': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(79): error C2228: left of '.r' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(79): error C2039: 'dcvAmbient': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(80): error C2039: 'dcvDiffuse': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(80): error C2228: left of '.g' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(80): error C2039: 'dcvAmbient': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(81): error C2039: 'dcvDiffuse': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(81): error C2228: left of '.b' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(81): error C2039: 'dcvAmbient': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(82): error C2039: 'dcvDiffuse': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(82): error C2228: left of '.a' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(82): error C2039: 'dcvAmbient': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(92): error C2065: 'D3DLIGHT7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(92): error C2065: 'light': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(92): error C2275: 'D3DLIGHTTYPE': illegal use of this type as an expression
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(168): note: see declaration of 'D3DLIGHTTYPE'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(92): error C2146: syntax error: missing ')' before identifier 'ltType'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(94): error C2143: syntax error: missing ';' before '{'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(94): error C2447: '{': missing function header (old-style formal list?)
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(123): error C3861: 'Magnitude': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(132): error C3861: 'DotProduct': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(138): error C3861: 'Magnitude': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(143): error C3861: 'Magnitude': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(147): error C3861: 'Magnitude': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(157): error C3861: 'CrossProduct': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(167): error C3861: 'DotProduct': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(168): error C3861: 'DotProduct': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(169): error C3861: 'DotProduct': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(266): error C3861: 'Normalize': identifier not found
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(339): error C2065: 'D3DRS_COLORKEYENABLE': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(344): error C2065: 'mtrlGetmtrl': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(344): error C2228: left of '.Diffuse' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(344): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(344): error C2228: left of '.a' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(344): error C2039: 'emissive': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(365): error C2065: 'mtrlGetmtrl': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(365): error C2228: left of '.Diffuse' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(365): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(365): error C2228: left of '.a' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(365): error C2039: 'emissive': is not a member of '_D3DMATERIAL9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9types.h(155): note: see declaration of '_D3DMATERIAL9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dutil.cpp(431): error C2065: 'D3DRS_COLORKEYENABLE': undeclared identifier
+  d3dtextr.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(261): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(315): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(451): error C2065: 'D3DDEVICEDESC7': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(451): error C2146: syntax error: missing ';' before identifier 'ddDesc'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(451): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(452): error C2039: 'GetCaps': is not a member of 'IDirect3DDevice9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(587): note: see declaration of 'IDirect3DDevice9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(452): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(466): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(466): error C2228: left of '.deviceGUID' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(466): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(466): error C2065: 'IID_IDirect3DHALDevice': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(468): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(468): error C2228: left of '.deviceGUID' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(468): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(468): error C2065: 'IID_IDirect3DTnLHalDevice': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(474): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(474): error C2228: left of '.dpcTriCaps' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(474): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(474): error C2228: left of '.dwTextureCaps' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(481): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(481): error C2228: left of '.dwMaxTextureWidth' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(481): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(482): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(482): error C2228: left of '.dwMaxTextureHeight' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(482): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(487): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(487): error C2228: left of '.dpcTriCaps' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(487): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(487): error C2228: left of '.dwTextureCaps' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(509): error C2065: 'ddDesc': undeclared identifier
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(509): error C2228: left of '.dpcTriCaps' must have class/struct/union
+  c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(509): note: type is 'unknown-type'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(509): error C2228: left of '.dwTextureCaps' must have class/struct/union
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(524): error C2039: 'EnumTextureFormats': is not a member of 'IDirect3DDevice9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(587): note: see declaration of 'IDirect3DDevice9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(531): error C2039: 'EnumTextureFormats': is not a member of 'IDirect3DDevice9'
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3d9.h(587): note: see declaration of 'IDirect3DDevice9'
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dtextr.cpp(541): error C2660: 'IDirect3DDevice9::GetRenderTarget': function does not take 1 arguments
+  d3dmath.cpp
+c:\users\39438\onedrive\codebefore\legendofmir2_client\windhorn\d3dcommon\d3dmath.cpp(329): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
